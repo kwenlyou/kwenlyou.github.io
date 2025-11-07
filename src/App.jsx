@@ -8,7 +8,7 @@ function App() {
         <section className="hero">
           <div className="hero-content">
             <h1 className="name">Kun Liu</h1>
-            <p className="tagline">Director of AI Engineering</p>
+            <p className="tagline">AI Engineer</p>
             <p className="bio">
               AI Engineering leader with 10+ years of experience architecting and deploying advanced machine learning and GenAI solutions. Expertise in building high-performing teams and translating complex business challenges into scalable, data-driven solutions.
             </p>
@@ -56,17 +56,17 @@ function App() {
 
           <div className="bio-item">
             <span className="bio-year">2010 - 2013</span>
-            <span className="bio-text"><strong>Ph.D.</strong> in Computer Science, Institut National Polytechnique de Lorraine / INRIA, Nancy, France</span>
+            <span className="bio-text"><strong>Ph.D. in Computer Science</strong>, Institut National Polytechnique de Lorraine / INRIA, Nancy, France</span>
           </div>
 
           <div className="bio-item">
             <span className="bio-year">2008 - 2010</span>
-            <span className="bio-text"><strong>M.S.</strong> in Applied Mathematics, Zhejiang University, Hangzhou, China</span>
+            <span className="bio-text"><strong>M.S. in Applied Mathematics</strong>, Zhejiang University, Hangzhou, China</span>
           </div>
 
           <div className="bio-item">
             <span className="bio-year">2004 - 2008</span>
-            <span className="bio-text"><strong>B.S.</strong> in Mathematics, Zhejiang University, Hangzhou, China</span>
+            <span className="bio-text"><strong>B.S. in Mathematics</strong>, Zhejiang University, Hangzhou, China</span>
           </div>
         </section>
 
