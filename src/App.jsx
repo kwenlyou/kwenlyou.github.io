@@ -55,18 +55,18 @@ function App() {
           <h2 className="section-title">Education</h2>
 
           <div className="bio-item">
-            <span className="bio-year">2004 - 2008</span>
-            <span className="bio-text">B.S. in Mathematics, Zhejiang University, Hangzhou, China</span>
+            <span className="bio-year">2010 - 2013</span>
+            <span className="bio-text"><strong>Ph.D.</strong> in Computer Science, Institut National Polytechnique de Lorraine / INRIA, Nancy, France</span>
           </div>
 
           <div className="bio-item">
             <span className="bio-year">2008 - 2010</span>
-            <span className="bio-text">M.S. in Applied Mathematics, Zhejiang University, Hangzhou, China</span>
+            <span className="bio-text"><strong>M.S.</strong> in Applied Mathematics, Zhejiang University, Hangzhou, China</span>
           </div>
 
           <div className="bio-item">
-            <span className="bio-year">2010 - 2013</span>
-            <span className="bio-text">Ph.D. in Computer Science, Institut National Polytechnique de Lorraine / INRIA, Nancy, France</span>
+            <span className="bio-year">2004 - 2008</span>
+            <span className="bio-text"><strong>B.S.</strong> in Mathematics, Zhejiang University, Hangzhou, China</span>
           </div>
         </section>
 
