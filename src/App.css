@@ -96,7 +96,7 @@
 /* Bio Section */
 .bio-item {
   display: grid;
-  grid-template-columns: 80px 1fr;
+  grid-template-columns: 120px 1fr;
   gap: 1rem;
   margin-bottom: 1rem;
 }
