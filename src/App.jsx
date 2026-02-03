@@ -103,6 +103,9 @@ function App() {
             <a href="https://linkedin.com/in/kwenlyou" target="_blank" rel="noopener noreferrer" className="social-link">
               LinkedIn
             </a>
+            <a href="https://x.com/kwenlyou" target="_blank" rel="noopener noreferrer" className="social-link">
+              X
+            </a>
             <a href="mailto:kwen.lyou@gmail.com" className="social-link">
               Email
             </a>
