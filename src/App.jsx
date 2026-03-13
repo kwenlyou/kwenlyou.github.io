@@ -98,18 +98,16 @@ function App() {
           <h2 className="section-title">On the web</h2>
           <div className="social-links">
             <a href="https://github.com/kwenlyou" target="_blank" rel="noopener noreferrer" className="social-link">
-              GitHub
+              <i className="fab fa-github"></i>
             </a>
             <a href="https://linkedin.com/in/kwenlyou" target="_blank" rel="noopener noreferrer" className="social-link">
-              LinkedIn
-            <a href="https://x.com/kwenlyou" target="_blank" rel="noopener noreferrer" className="social-link">
-              <i className="fab fa-x-twitter"></i> {/* Example: using Font Awesome icon */}
+              <i className="fab fa-linkedin"></i>
             </a>
             <a href="https://x.com/kwenlyou" target="_blank" rel="noopener noreferrer" className="social-link">
-              X
+              <i className="fab fa-x-twitter"></i>
             </a>
             <a href="mailto:kwen.lyou@gmail.com" className="social-link">
-              Email
+              <i className="fas fa-envelope"></i>
             </a>
           </div>
         </section>
