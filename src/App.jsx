@@ -10,7 +10,7 @@ function App() {
             <h1 className="name">Kun Liu</h1>
             <p className="tagline">AI Engineer</p>
             <p className="bio">
-              AI Engineering leader with 10+ years of experience architecting and deploying advanced machine learning and GenAI solutions. Expertise in building high-performing teams and translating complex business challenges into scalable, data-driven solutions.
+              Hands-on AI Engineering leader with 10+ years of experience architecting, coding, and deploying advanced machine learning and GenAI solutions. Proven track record of leading high-performing teams from the trenches, driving system design, and translating complex business challenges into scalable, production systems.
             </p>
           </div>
         </section>
